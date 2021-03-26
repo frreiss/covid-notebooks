@@ -18,4 +18,5 @@ seaborn
 xlrd
 text-extensions-for-pandas
 ray
+ipywidgets
 
